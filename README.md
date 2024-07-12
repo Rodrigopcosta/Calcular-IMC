@@ -79,3 +79,9 @@ Este projeto foi desenvolvido com base em um vídeo tutorial disponível no YouT
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar o projeto.
+
+# Autor
+
+Rodrigo Pereira da Costa
+
+https://www.linkedin.com/in/rodrigo-costa-desenvolverdor-web/
