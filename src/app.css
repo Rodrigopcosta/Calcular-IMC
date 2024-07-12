@@ -31,7 +31,6 @@ span{
     border-radius: 6px;
     color: #fff;
     padding: 0 12px;
-    text-align: center;
     font-size: 18px;    
 }
 
@@ -47,5 +46,19 @@ span{
 
 h2{
     margin-top: 28px; 
+    text-align: center;
 }
 
+/* Responsividade */
+
+@media (max-width: 530px) {
+    .area-input {
+        width: 300px;
+    }
+
+    h1{
+        font-size: 30px;
+    }
+
+
+  }

@@ -18,7 +18,7 @@ function App() {
     } else if (imc >= 24.9 && imc < 34.9) {
       setMensagem("Você está levemente acima do peso! Seu IMC: " + imc.toFixed(2))
     } else {
-      setMensagem("Cuidade Obesidade! Seu IMC: " + imc.toFixed(2))
+      setMensagem("Cuidado Obesidade! Seu IMC: " + imc.toFixed(2))
     }
   }
 
