@@ -21,13 +21,7 @@ Este é um projeto de uma calculadora de Índice de Massa Corporal (IMC) desenvo
 
 ## Imagens do Projeto
 
-### Computador
-
-![Calculadora de IMC no Computador](caminho/para/imagem-computador.png)
-
-### Celular
-
-![Calculadora de IMC no Celular](caminho/para/imagem-celular.png)
+![Calculadora de IMC no Computador](./src/assets/Calculadora.png)
 
 ## Como Executar o Projeto
 
