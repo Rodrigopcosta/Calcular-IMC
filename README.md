@@ -1,15 +1,13 @@
 # Calculadora de IMC
 
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/docs)
+Calculadora de IMC moderna e de alta performance, desenvolvida com o ecossistema de ponta do Next.js 16 e React 19.2. O projeto oferece uma experiência totalmente responsiva, garantindo acessibilidade e fluidez tanto em dispositivos móveis quanto em desktops.
+
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/blog/next-16)
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/docs/v4-beta)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![PostCSS](https://img.shields.io/badge/PostCSS-8-DD3A0A?style=for-the-badge&logo=postcss)](https://postcss.org/)
 [![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-Latest-f75c7e?style=for-the-badge&logo=lucide)](https://lucide.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js->=20-339933?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
-
-Um site moderno e intuitivo para calcular o Índice de Massa Corporal (IMC) desenvolvido com Next.js 16 e React 19.
-
 
 ## 📱 Preview do Projeto
 
@@ -106,12 +104,12 @@ O projeto utiliza design tokens do Tailwind CSS definidos no arquivo `globals.cs
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar conforme necessário.
+Este projeto está sob a [Licença MIT](./LICENSE). Sinta-se livre para usar e modificar conforme necessário.
 
 ## Autor
 
-Rodrigo Costa
-Linkdin: (https://www.linkedin.com/in/rodrigopc-developer/)
+- Rodrigo Costa
+- Linkdin: (https://www.linkedin.com/in/rodrigopc-developer/)
 
 ## 🤝 Contribuições
 
