@@ -1,5 +1,7 @@
 # Calculadora de IMC
 
+> **Acesse o projeto online:** [https://imcacul.vercel.app/](https://imcacul.vercel.app/)
+
 Calculadora de IMC moderna e de alta performance, desenvolvida com o ecossistema de ponta do Next.js 16 e React 19.2. O projeto oferece uma experiência totalmente responsiva, garantindo acessibilidade e fluidez tanto em dispositivos móveis quanto em desktops.
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/blog/next-16)
